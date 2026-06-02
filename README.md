@@ -146,6 +146,3 @@ The notebook generates high-quality interactive visualizations:
 
 ---
 
-## 🎓 Contribution & Contact
-Developed as part of the Open Projects 2026 initiative of the **Finance Club, IIT Roorkee**.
-For queries, clarifications, or discussions, feel free to open an issue or reach out to the Finance Club coordinators!
