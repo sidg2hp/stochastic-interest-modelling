@@ -168,7 +168,3 @@ The model outputs several deep financial diagnostic and comparative plots. The g
 * **Error Diagnostics (Right)**: Standard residual diagnostics demonstrating error homoscedasticity and model robustness.
 
 ---
-
-## 🎓 Contribution & Contact
-Developed as part of the Open Projects 2026 initiative of the **Finance Club, IIT Roorkee**.
-For queries, clarifications, or discussions, feel free to open an issue or reach out to the Finance Club coordinators!
