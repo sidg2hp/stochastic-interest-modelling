@@ -144,5 +144,4 @@ The notebook generates high-quality interactive visualizations:
 * **Reconstructed Yield Curves**: Overlays out-of-sample predictions against actual market data.
 * **Volatility Smiles & Sensitivities**: Analyzes how $\sigma$ impacts the curvature and shape of the simulated term structures.
 
----
 
