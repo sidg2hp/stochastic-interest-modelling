@@ -7,7 +7,7 @@
 Interest rates form the foundational benchmark for global asset pricing, bond valuation, derivative hedging, and financial risk management. Unlike simple equity prices, interest rates form an entire **term structure** (the yield curve) representing the cost of borrowing across different time horizons.
 
 This repository contains the complete implementation and comparative evaluation of mathematical frameworks to model, calibrate, and predict the dynamics of the short rate and the entire yield curve under stochastic interest rate models. The project was developed as part of the **Finance Club, IIT Roorkee: Open Projects**.
-
+ 
 ### 🎯 Core Objectives
 1. **Data Preprocessing & Quality Engineering**: Clean, format, and analyze daily bond yields, and handle potential anomalies (missing values, date gaps, monotonicity violations, and inverted curves) in a multi-tenor historical dataset.
 2. **Base CIR Calibration**: Implement and calibrate the single-factor Cox-Ingersoll-Ross (CIR) short-rate model under three distinct estimation techniques:
