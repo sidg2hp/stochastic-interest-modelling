@@ -2,7 +2,7 @@
 ## Cox-Ingersoll-Ross (CIR) Model and Two-Factor Longstaff-Schwartz Extension on Historical Bond Yields
 
 ---
-
+Google Colab link: https://colab.research.google.com/drive/1F0mvSSrpM0oXKcBUtYHtc2Hnbj1KSr3j?usp=sharing
 ## 📖 Project Overview
 Interest rates form the foundational benchmark for global asset pricing, bond valuation, derivative hedging, and financial risk management. Unlike simple equity prices, interest rates form an entire **term structure** (the yield curve) representing the cost of borrowing across different time horizons.
 
